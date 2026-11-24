@@ -1,0 +1,38 @@
+[
+ {
+  "id": "intro",
+  "frames": 239
+ },
+ {
+  "id": "builder",
+  "frames": 299
+ },
+ {
+  "id": "night",
+  "frames": 239
+ },
+ {
+  "id": "privacy",
+  "frames": 257
+ },
+ {
+  "id": "play",
+  "frames": 317
+ },
+ {
+  "id": "stubborn",
+  "frames": 265
+ },
+ {
+  "id": "thrifty",
+  "frames": 229
+ },
+ {
+  "id": "verdict",
+  "frames": 302
+ },
+ {
+  "id": "outro",
+  "frames": 110
+ }
+]
